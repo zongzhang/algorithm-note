@@ -6,7 +6,7 @@
 
 应用：无权图找最短路径
 
-```java
+```
 public void TreeNode{
   int val;
   TreeNode left;
